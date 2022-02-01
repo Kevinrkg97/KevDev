@@ -3,6 +3,7 @@ import Inicio from './pages/Inicio/inicio';
 
 function App() {
   return (
+    
     <Inicio />
   );
 }

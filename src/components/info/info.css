@@ -1,0 +1,19 @@
+.info{
+    width: 100%;
+    background-color: #000;
+} 
+
+.info .container{
+    display: flex;
+    justify-content: end;
+    margin-right: 4rem;
+}
+
+.info .container .container{
+    padding: 1.2rem;
+}
+
+.info .container .container .icon{
+    color: #F9A826;
+    margin-right: 0.5rem;
+}
