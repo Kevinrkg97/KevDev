@@ -1,11 +1,13 @@
 .navBar{
     width: 100%;
+    position: absolute;
 }
 
 .navBar .container{
     padding: 1rem;
     display: flex;
-     justify-content: space-around;
+    justify-content: flex-end;
+    z-index: 10;
 }
 
 .navBar .container .sections {
@@ -20,3 +22,17 @@
     font-weight: 700;
     padding: 0 1.2rem;
 }
+
+
+.navBar .container .contacto{
+    background-color: #F9A826;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+

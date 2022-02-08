@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
 .info{
     width: 100%;
     background-color: #000;
+    color: #fff;
+    font-family: 'Anton', sans-serif;
 } 
 
 .info .container{
@@ -10,10 +14,18 @@
 }
 
 .info .container .container{
-    padding: 1.2rem;
+    padding: 0.7rem;
+}
+
+.info .container a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff; 
+    font-size: 18px;
 }
 
 .info .container .container .icon{
+    margin-right: 0.6rem;
     color: #F9A826;
-    margin-right: 0.5rem;
 }
+
