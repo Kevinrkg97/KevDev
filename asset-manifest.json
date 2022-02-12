@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KevDev/static/css/main.3f81bb3a.css",
+    "main.js": "/KevDev/static/js/main.db4058ce.js",
+    "static/media/profile.png": "/KevDev/static/media/profile.7e3d4f594c5417b85f3d.png",
+    "index.html": "/KevDev/index.html",
+    "main.3f81bb3a.css.map": "/KevDev/static/css/main.3f81bb3a.css.map",
+    "main.db4058ce.js.map": "/KevDev/static/js/main.db4058ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f81bb3a.css",
+    "static/js/main.db4058ce.js"
+  ]
+}
