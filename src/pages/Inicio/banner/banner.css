@@ -35,6 +35,8 @@
   width:100%;
   margin: 0;
   padding: 0;
+  z-index: 1;
+
 }
 
 .header .flex { /*Flexbox for containers*/
@@ -42,6 +44,8 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  z-index: 1;
+
 }
 
 .header .waves {
@@ -50,6 +54,8 @@
   margin-bottom:-7px; /*Fix for safari gap*/
   min-height:100px;
   max-height:150px;
+  z-index: 1;
+
 }
 
 .header .content {
@@ -81,6 +87,7 @@
   animation-duration: 20s;
 }
 @keyframes move-forever {
+	
   0% {
    transform: translate3d(-90px,0,0);
   }

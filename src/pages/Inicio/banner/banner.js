@@ -1,5 +1,4 @@
 import './banner.css';
-import banner from './assets/banner.jpg';
 
 
 const Banner = () => {
@@ -25,10 +24,10 @@ const Banner = () => {
 		<h2 class="frame-4">Contáctame!</h2>
 		<h2 class="frame-5">
 			<span>Imagina, </span>
-			<span>Crea, </span>
-			<span>Produce.</span>
+			<span>Diseña, </span>
+			<span>Contruye.</span>
 		</h2>
-		<a class="sp-circle-link" href="#">Contáctame</a>
+		<a class="sp-circle-link" href="/">Contáctame</a>
 	</div>
 </div>
                     </div>

@@ -1,6 +1,6 @@
 import Info from "../../components/info/info";
-import NavBar from "../../components/navbar/navbar";
 import Banner from "./banner/banner";
+import Servicios from "./servicios/servicios";
 import SobreMi from "./sobreMi/sobreMi";
 
 
@@ -12,6 +12,7 @@ const Inicio = () => {
             {/* <NavBar/> */}
             <Banner />
             <SobreMi />
+            <Servicios />
         </>
     )
 }

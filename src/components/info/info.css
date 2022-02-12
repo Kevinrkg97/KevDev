@@ -2,6 +2,7 @@
 
 .info{
     width: 100%;
+    padding: 5px 0;
     background-color: #000;
     color: #fff;
     font-family: 'Anton', sans-serif;
@@ -9,7 +10,7 @@
 
 .info .container{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     margin-right: 4rem;
 }
 
@@ -23,6 +24,7 @@
     color: #fff; 
     font-size: 18px;
 }
+
 
 .info .container .container .icon{
     margin-right: 0.6rem;

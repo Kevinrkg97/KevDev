@@ -5,3 +5,35 @@ padding: 5rem;
 .about .container{
     text-align: center;
 }
+
+.about .container h2{
+    font-size: 50px;
+}
+
+.about .container .content{
+    margin-top: 50px;
+    display: flex;
+    vertical-align: middle;
+}
+
+.about .container .content img{
+    width: 400px;
+    float: right;
+}
+
+.about .container .content .text p{
+justify-content: start;
+font-size: 20px;
+}
+
+.about .container .content .text strong{
+    color: #bbb;
+}
+
+.about .container .content .text .icons{
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+
+
