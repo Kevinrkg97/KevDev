@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-
 .info{
     width: 100%;
     padding: 5px 0;
     background-color: #000;
     color: #fff;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 } 
 
 .info .container{
@@ -23,6 +21,7 @@
     text-decoration: none;
     color: #fff; 
     font-size: 18px;
+    font-weight: 700;
 }
 
 

@@ -1,12 +1,14 @@
 import './sobreMi.css';
 import profile from './assets/profile.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {  faFacebookF, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 const SobreMi = () => {
     return(
         <div className='about'>
             <div className='container'>
                 <h2>Sobre Mí</h2>
+                <hr />
                 <div className='content'>
                     <div className='text'>
                         <br />
@@ -18,7 +20,16 @@ const SobreMi = () => {
                         <br />
                         <p>Me considero una persona bastante curiosa, perfeccionista y colaborativa.</p>
                         <div className='icons'>
-                        <FontAwesomeIcon icon="fa-brands fa-facebook-f" />                        </div>
+                            <a href='https://www.facebook.com/KevinRkg97/' className='containerIcon'>
+                                <FontAwesomeIcon icon={ faFacebookF} />
+                            </a>
+                            <a href='https://twitter.com/kevinrkg97/' className='containerIcon'>
+                                <FontAwesomeIcon icon={ faTwitter} />
+                            </a>
+                            <a href='https://www.instagram.com/afoxwithnoname/' className='containerIcon'>
+                                <FontAwesomeIcon icon={ faInstagram }  />
+                            </a>
+                        </div>
                     </div>
                     <img src={profile} alt='profile'></img>
                 </div>
