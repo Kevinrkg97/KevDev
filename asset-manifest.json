@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/KevDev/static/css/main.43083b0a.css",
-    "main.js": "/KevDev/static/js/main.92e35fff.js",
-    "static/media/profile.png": "/KevDev/static/media/profile.7e3d4f594c5417b85f3d.png",
+    "main.css": "/KevDev/static/css/main.e9d62e11.css",
+    "main.js": "/KevDev/static/js/main.d8638f1d.js",
+    "static/media/profile.png": "/KevDev/static/media/profile.38470bda67a9bd8c3082.png",
     "static/media/web.svg": "/KevDev/static/media/web.3003773bd87ca67b0372d841f3c07402.svg",
     "static/media/mobile.svg": "/KevDev/static/media/mobile.a85c4973cc9e8e4fc12d0ad534516fd2.svg",
     "static/media/ia.svg": "/KevDev/static/media/ia.44f50eb1947e79c9bf556bdf034cd5ef.svg",
     "index.html": "/KevDev/index.html",
-    "main.43083b0a.css.map": "/KevDev/static/css/main.43083b0a.css.map",
-    "main.92e35fff.js.map": "/KevDev/static/js/main.92e35fff.js.map"
+    "main.e9d62e11.css.map": "/KevDev/static/css/main.e9d62e11.css.map",
+    "main.d8638f1d.js.map": "/KevDev/static/js/main.d8638f1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.43083b0a.css",
-    "static/js/main.92e35fff.js"
+    "static/css/main.e9d62e11.css",
+    "static/js/main.d8638f1d.js"
   ]
 }
